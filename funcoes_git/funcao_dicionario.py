@@ -11,3 +11,4 @@ produto["preco"] = 135.00
 # Adicionando um novo par 
 produto["quantidade"] = 10
 print(produto)
+

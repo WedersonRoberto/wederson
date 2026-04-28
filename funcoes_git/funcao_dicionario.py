@@ -1,0 +1,13 @@
+# Criando um dicionário
+
+produto = {"nome": "Teclado","preco":150, "em_estoque":True}
+
+# Acessando um valor
+
+print(produto["nome"])
+
+#Modificando o valor
+produto["preco"] = 135.00
+# Adicionando um novo par 
+produto["quantidade"] = 10
+print(produto)
